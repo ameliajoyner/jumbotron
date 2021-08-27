@@ -1,4 +1,5 @@
 .jumbotron {
+<<<<<<< HEAD
     background-image: url('');
 }
 .col-xs-6 {
@@ -6,3 +7,7 @@
     border: solid  #fdf49e;
 }
 
+=======
+    background-image: url('./images_for_Jumbotron/IMG_E5281.JPG')
+}
+>>>>>>> 9a59c7736e2d0185c7dbe4c7d895778a1715178b
