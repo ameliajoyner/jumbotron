@@ -1,7 +1,17 @@
-.jumbotron {
-    background-image: url('./images_for_Jumbotron/IMG_E5281.JPG')
-}
 .col-xs-6 {
-    background-color:lemonchiffon;
-    border: solid  #fdf49e;
+    background-color:#de7ff1;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.intro {
+    border: 3px solid #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+.jumbotron {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-size: cover;
+    background-image: url('./images_for_Jumbotron/IMG_1376.JPG'); 
+    color: white;
 }
